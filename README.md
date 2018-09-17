@@ -2,7 +2,10 @@
 uva library workshop on introduction to python
 
 ## Who am I?
-* [Senior Research Data Scientist with the Data Science Institute and UVA Library](https://dsi.virginia.edu/people/peter-alonzi)
+* I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
+    -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
+    I try to make it available for them.
+    -I also know GIS (Geographic Information Systems)
 * I like to be interrupted with questions! Please jump right in.
 
 ## Welcome to the UVA Library
