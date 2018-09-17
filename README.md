@@ -4,16 +4,18 @@ uva library workshop on introduction to python
 ## Who am I?
 * I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
     -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
-    I try to make it available for them.
-    -I also know GIS (Geographic Information Systems)
+    I try to make it available for them.  I also know GIS (Geographic Information Systems)
+    
+    * ep9k@virginia.edu 
+    * Brown Science & Engineering Library office i046
+    
 * I like to be interrupted with questions! Please jump right in.
 
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Introduction to R (Jenn Huck)	Thursday, 9/6	10:00 – 11:30	Brown 133
-  * Introduction to Python (Erich Purpur)	Wednesday, 9/26	10:00 – 11:30	Brown 133
   * Introduction to Git/GitHub (Pete Alonzi)	Tuesday, 10/2	14:00 – 16:00	Brown 133
+  * Data Visualization in R (Clay Ford)     Wednesday, 10/3    10:00 - 12:00   Brown 133
   
 ## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
@@ -25,7 +27,7 @@ uva library workshop on introduction to python
   
 # Goals for Today
 1. Get python running
-2. Get comfortable with python
+2. Get comfortable with python basics
 3. Learn how to look up help
 
 ## Outline
@@ -48,6 +50,7 @@ Today we are working on python. However there is some knowledge of programming t
 
 # Let's Get to It (hopefully everyone is done installing)
 * open spyder [it looks like this](spyder.png)
+* We are using Anaconda/Spyder today as it seems to be widely used throughout UVA. Adapted for data scientists
   * text editor
   * variable explorer
   * console
@@ -158,7 +161,15 @@ It's a matter of modularity. Programs are designed to be modular and work with o
   * Play blackjack
   * Play roulette
 
-
+# Other Learning Resources
+* Learn Python the Hard Way (Available for free through UVA libraries)
+  * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
+* Many free resources online
+  * [Practice Python](http://www.practicepython.org/)
+  * [UVA Advanced Research Computing Services](https://arcs.virginia.edu/)
+  * Ask me!
+    * contact info at top of page
+  * 
 
 
 
