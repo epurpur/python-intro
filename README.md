@@ -15,16 +15,14 @@ uva library workshop on introduction to python
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Introduction to Git/GitHub (Pete Alonzi)	Tuesday, 10/2	14:00 – 16:00	Brown 133
-  * Data Visualization in R (Clay Ford)     Wednesday, 10/3    10:00 - 12:00   Brown 133
+  * Introduction to R (Jenn Huck)	                          Tuesday, 1/22	10:00 - 12:00	Brown 133
+  * Data Preparation/Tidy Data in R (Michele Claibourn)       Tuesday, 1/29    10:00 - 12:00   Brown 133
+  * Intro to QGIS (Erich Purpur)                              Monday, 2/4 10:00 - 12:00  Brown 133
+  * Intro to Data Visualization with Tableau (Nancy Kechner)  Wednesday, 2/6  10:00 - 12:00 Brown 133
   
 ## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
-
-* terminology time
-  * programming langugage vs software distribution
-  * python2 vs python3
   
 # Goals for Today
 1. Get python running
@@ -36,7 +34,7 @@ uva library workshop on introduction to python
 2. Data types
 3. Loops
 4. Logic
-5. How to import (aka the most important part)
+5. How to import other libraries
 
 ### A quick note
 Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
