@@ -4,7 +4,8 @@ uva library workshop on introduction to python
 ## Who am I?
 * I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
     -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
-    I try to make it available for them.  I also know GIS (Geographic Information Systems)
+    I try to make it available for them.  I also help people with GIS (Geographic Information Systems)
+    projects and sometimes programming-related questions.
     
     * ep9k@virginia.edu 
     * Brown Science & Engineering Library office i046
