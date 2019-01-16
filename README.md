@@ -53,6 +53,13 @@ Python is a general purpose programming language used for a huge variety of purp
 (https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
 
 
+# Difference between R and Python?  (Simplified)
+* They are both open source programming languages
+* Python is general purpose while R is focused on statistics and data analysis
+* You can also do stats with Python. Many packages available
+    * NumPy
+    * SciPy
+    * Pandas
 
 
 ## A brief history
@@ -63,13 +70,16 @@ Python is a general purpose programming language used for a huge variety of purp
 * [logo](https://www.google.com/search?q=python+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi9xN-J8aHdAhVBMt8KHT-WDEEQ_AUICigB&biw=1440&bih=697)
 * [anaconda logo](https://www.google.com/search?q=anaconda+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwin88Gf8aHdAhUhiOAKHeGLBHYQ_AUICigB&biw=1440&bih=697)
 
+
 # Let's Get to It (hopefully everyone is done installing)
 * open spyder [it looks like this](spyder.png)
 * We are using Anaconda/Spyder today as it seems to be widely used throughout UVA. Adapted for data scientists
+* Spyder is a Programming IDE (Integrated Development Environment)
   * text editor
   * variable explorer
   * console
   * control icons
+  
   
 ## Strings
 * A string is a 'string' of characters
@@ -169,10 +179,10 @@ It's a matter of modularity. Programs are designed to be modular and work with o
         * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
         
 * CS 1110/1111 @ UVA
-        * All resources available online!
+        * All resources available online for free!
         * https://cs1110.cs.virginia.edu/
 
-* Resources available at UVA
+* Other resources available at UVA
         * Research Data Services - StatLab Fellows
         * https://data.library.virginia.edu/statlab/
         * statlab@virginia.edu
@@ -190,6 +200,10 @@ It's a matter of modularity. Programs are designed to be modular and work with o
         * Not only python
         * DO NOT just ask questions, do your research first!
             * Odds are very high someone has already asked your question, especially as a novice
+     
+  * Youtube
+        * Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+            * If you have a question about a python programming concept, Corey Schafer has covered it
      
   * Practice Python (http://www.practicepython.org/)
         * Coding challenges for programmers of all levels
