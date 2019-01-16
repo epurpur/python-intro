@@ -186,9 +186,8 @@ It's a matter of modularity. Programs are designed to be modular and work with o
         * Research Data Services - StatLab Fellows
         * https://data.library.virginia.edu/statlab/
         * statlab@virginia.edu
-        
         * ARCS - Advanced Research Computing Services - Provides high performance computing expertise
-        * https://arcs.virginia.edu/
+            * https://arcs.virginia.edu/
 
 # Self Help via the Internet
   * Google 
@@ -202,8 +201,8 @@ It's a matter of modularity. Programs are designed to be modular and work with o
             * Odds are very high someone has already asked your question, especially as a novice
      
   * Youtube
-        * Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-            * If you have a question about a python programming concept, Corey Schafer has covered it
+        - Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+            - If you have a question about a python programming concept, Corey Schafer has covered it
      
   * Practice Python (http://www.practicepython.org/)
         * Coding challenges for programmers of all levels
