@@ -23,6 +23,10 @@ uva library workshop on introduction to python
 ## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
+
+
+## Getting the files we are working with today
+* Download the intro file here: https://github.com/epurpur/python-intro/blob/master/IntroToPython.py
   
 # Goals for Today
 1. Get python running
