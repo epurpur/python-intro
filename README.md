@@ -142,34 +142,35 @@ You can "save" things as variables. For those curious as to what's going on unde
 * *This is the most important topic*
 * The import command let's you bring in code from another file and use it
 * one example: random number generation
-  * import numpy
-  * numpy.random.randn()
-* There are two steps [info on conda](https://conda.io/docs/user-guide/tasks/manage-pkgs.html) [info on pip](https://pip.pypa.io/en/stable/user_guide/)
-  1. install the module, eg: shell]$ conda install numpy
-  2. python>>> import numpy
+  * import random
+    * random.randint(0,10)
+* Sometimes packages needed to be installed (3rd party packages)
+    *pip - (https://pip.pypa.io/en/stable/installing/)
+    *conda - (https://conda.io/docs/)
 
 # Scripting vs Programming
 It's a matter of modularity. Programs are designed to be modular and work with other programs. Scripts are designed to be single use.
 
 
 
-# Ways to Practice
-1. Write some code
-2. Ask a friend to review it
 
-* Beginning
-  * Flip a coin (~10 lines)
-  * Play rock, paper, scissors  (~25 lines)
-* Intermediate
-  * Guess a secret number between 1 and 10. With hints. (~20 lines)
-  * Dice rolling program
-* Expert
-  * Play blackjack
-  * Play roulette
+# Learning Resources
+* Pick up a book, there are many available through the UVA library website 
+        * Learn Python the Hard Way (Available for free through UVA libraries)
+        * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
+        
+* CS 1110/1111 @ UVA
+        * All resources available online!
+        * https://cs1110.cs.virginia.edu/
 
-# Other Learning Resources
-* Learn Python the Hard Way (Available for free through UVA libraries)
-  * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
+* Resources available at UVA
+        * Research Data Services - StatLab Fellows
+        * https://data.library.virginia.edu/statlab/
+        * statlab@virginia.edu
+        
+        * ARCS - Advanced Research Computing Services - Provides high performance computing expertise
+        * https://arcs.virginia.edu/
+
 * Many free resources online
   * [Practice Python](http://www.practicepython.org/)
   * [UVA Advanced Research Computing Services](https://arcs.virginia.edu/)
