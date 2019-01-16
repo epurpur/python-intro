@@ -36,8 +36,15 @@ uva library workshop on introduction to python
 4. Logic
 5. How to import other libraries
 
-### A quick note
-Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
+### What is Python?
+From www.python.org:
+"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance." 
+
+Python is a general purpose programming language used for a huge variety of purposes. It's user community is growing rapidly!
+(https://stackoverflow.blog/2017/09/06/incredible-growth-python/)
+
+
+
 
 ## A brief history
 * Designed by [Guido van Rossum](https://www.google.com/search?q=google+image+search+guido+van+rossum&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE_eGK6KHdAhXrRd8KHUzBDHsQ_AUICigB&biw=1440&bih=697)
