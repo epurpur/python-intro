@@ -28,7 +28,10 @@ uva library workshop on introduction to python
 
 
 ## Getting the files we are working with today
-* Download the intro file here: https://github.com/epurpur/python-intro/blob/master/IntroToPython.py
+* Go here: https://github.com/epurpur/python-intro
+* Click "Clone or Download" (green button in upper right corner)
+* Click "Download Zip"
+* Unzip that directory and move it somewhere that is easy to find (like your Desktop, for example)
   
 # Goals for Today
 1. Get python running
@@ -158,7 +161,7 @@ You can "save" things as variables. For those curious as to what's going on unde
 It's a matter of modularity. Programs are designed to be modular and work with other programs. Scripts are designed to be single use.
 
 
-
+# How to Help Yourself and Learn More
 
 # Learning Resources
 * Pick up a book, there are many available through the UVA library website 
@@ -177,12 +180,30 @@ It's a matter of modularity. Programs are designed to be modular and work with o
         * ARCS - Advanced Research Computing Services - Provides high performance computing expertise
         * https://arcs.virginia.edu/
 
-* Many free resources online
-  * [Practice Python](http://www.practicepython.org/)
-  * [UVA Advanced Research Computing Services](https://arcs.virginia.edu/)
-  * Ask me!
-    * contact info at top of page
-  * 
+# Self Help via the Internet
+  * Google 
+        * Ex: "How to make dictionary python"
+        * Ex: "python decorators"
+        
+  * Stack Overflow (https://stackoverflow.com/)
+        * A question/answer site for programming questions (actually, not just programming any more)
+        * Not only python
+        * DO NOT just ask questions, do your research first!
+            * Odds are very high someone has already asked your question, especially as a novice
+     
+  * Practice Python (http://www.practicepython.org/)
+        * Coding challenges for programmers of all levels
+        
+  * Python Tutor (http://pythontutor.com/)
+        * Visualize what your code is doing step-by-step
+        * Has limitations once you start importing libraries
+        
+  * TalkPython Training (https://training.talkpython.fm/)
+        * Not free
+        * Really awesome courses that help you get "real world" project experience
+  
+  
+
 
 
 
