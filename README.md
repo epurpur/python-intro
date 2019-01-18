@@ -35,15 +35,21 @@ uva library workshop on introduction to python
   
 # Goals for Today
 1. Get python running
-2. Get comfortable with python basics
-3. Learn how to look up help
+2. Learn some fundamentals
+3. Learn how to help yourself (Most Important!)
 
 ## Outline
-1. Strings and Functions
-2. Data types
-3. Loops
-4. Logic
-5. How to import other libraries
+1. Strings
+2. Print Statement
+3. Numbers (Int and Float)
+4. Errors
+5. Functions (Built-ins and custom)
+6. Lists, Loops, Booleans, Indexing
+7. Dictionaries
+8. Import
+9. Conditional Statements
+10. Mutable vs. Immutable data types
+
 
 ### What is Python?
 From www.python.org:
@@ -102,6 +108,11 @@ You can "save" things as variables. For those curious as to what's going on unde
   * a=5
   * a=7
     * totally works, a was just reassigned to point to 7
+    
+## Error Messages
+* Tell you when (and hopefully where) your code breaks.
+* Some are more readable and helpful than others
+* Read them from the bottom up
     
 ## Functions
 * print(a) # this function will show us what a points to
@@ -166,6 +177,14 @@ You can "save" things as variables. For those curious as to what's going on unde
 * Sometimes packages needed to be installed (3rd party packages)
     *pip - (https://pip.pypa.io/en/stable/installing/)
     *conda - (https://conda.io/docs/)
+
+
+#Mutablility
+* Some data types can be changed, others can't
+* Many reasons for this, a big one is performance
+    * Mutable data types (such as lists) are costly to CPU processingn power
+    * Immutable data types (like arrays) take less memory and processing power
+
 
 # Scripting vs Programming
 It's a matter of modularity. Programs are designed to be modular and work with other programs. Scripts are designed to be single use.
