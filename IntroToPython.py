@@ -43,24 +43,25 @@
 
 
 
-##Functions
-##built-ins like print(), type()
+##Functions. Functions are used to write re-usable code. And to use other people's code
+##built-ins like print(), type(). These are a part of the python standard library
 
 #number1 = 4
 #print(number1)
 #print("Number 1 =", number1)
 #print(type(number1))
 #print(type(number2))
-#
-##def function1():
-##    print("This is running from inside function1")
-##function1()
 
-#def adding_function(number):                               #passing in a variable as argument to the function
-#    a = 2
-#    new_number = number + a
-#    print("New number =", new_number)
-#adding_function(number1)
+#def function1():
+#    print("This is running from inside function1")
+#function1()
+
+def adding_function(number):                               #passing in a variable as argument to the function
+    print("Old number =", number)
+    a = 2
+    new_number = number + a
+    print("New number =", new_number)
+adding_function(5)
 
 
 
@@ -70,25 +71,33 @@
 
 
 #Lists, loops, booleans, and indexing
-#numbers = [1, 2, 3, 4, 5]
+
+#it is very common to add and remove things from lists
 #cities = ['New York', 'London', 'Bangkok', 'Tokyo', 'Sydney']
+
 #print(cities)
 #cities.append('Charlottesville')
 #print(cities)
+#cities.remove('London')
+#print(cities)
 
+#numbers = [1, 2, 3, 4, 5]
 #for number in numbers:                         #for loop
 #    print(number)
-##
-##for city in cities:
-##    print(city)
-#    
-#print(cities[1])
 #
+#for city in cities:
+#    print(city)
+    
+#for i in cities:
+#    print(i)
+    
+#print(cities[1])
+
 #z = 1
 #while z < 10:                                  #while loop
 #    print(z)
 #    z = z + 1
-#
+
 #b = 7
 #while b < 10:                                  #watch out for endless loop!
 #    print("B is less than 10")
@@ -105,7 +114,7 @@
 #            'Wayne Gretzky': 'Hockey',
 #            'Leo Messi': 'Soccer',
 #            'Roger Federer': 'Tennis'}
-#
+
 #for keys, values in athletes.items():
 #    print(keys,"plays", values)
 #
@@ -118,7 +127,7 @@
 #athletes['Peyton Manning'] = 'Football'
 #print(athletes)
 
-#MLB_Teams = {'Atlanta Braves': ['National League', 'Georgia', 'SunTrust Park'],
+#MLB_Teams = {'Boston Red Sox': ['American League', 'Massachusetts', 'Fenway Park'],
 #            'New York Yankees': ['American League', 'New York', 'Yankee Stadium'],
 #            'Chicago Cubs': ['National League', 'Chicago', 'Wrigley Field']}
 
@@ -159,7 +168,7 @@
 #Mutable and Immutable data types
 #Some data types can be changed, others cant
 
-#tuple1 = (0, 1, 2, 3)
+#tuple1 = (0, 1, 2, 3)              #use tuples for performance. When things probably aren't going to be changed.
 #tuple1[0] = 5
 #print(tuple1)
 
