@@ -187,7 +187,8 @@ You can "save" things as variables. For those curious as to what's going on unde
 
 
 # Scripting vs Programming
-It's a matter of modularity. Programs are designed to be modular and work with other programs. Scripts are designed to be single use.
+It's a matter of modularity. Programs are designed to be modular and work with other programs. Scripts are designed to be 
+single use.
 
 
 # How to Help Yourself and Learn More
@@ -200,13 +201,17 @@ It's a matter of modularity. Programs are designed to be modular and work with o
 * CS 1110/1111 @ UVA
         * All resources available online for free!
         * https://cs1110.cs.virginia.edu/
+        
+* Phd+ Course Materials
+        * All resources available online for free!
+        * https://workshops.rc.virginia.edu/lesson/python_shortcourse/python_introduction
 
 * Other resources available at UVA
         * Research Data Services - StatLab Fellows
         * https://data.library.virginia.edu/statlab/
         * statlab@virginia.edu
-        * ARCS - Advanced Research Computing Services - Provides high performance computing expertise
-            * https://arcs.virginia.edu/
+        * Research Computing - Provides high performance computing expertise
+            * https://www.rc.virginia.edu/
 
 # Self Help via the Internet
   * Google 
