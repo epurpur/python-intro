@@ -17,10 +17,10 @@ uva library workshop on introduction to python
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Introduction to R (Jenn Huck)	                          Tuesday, 1/22	10:00 - 12:00	Brown 133
-  * Data Preparation/Tidy Data in R (Michele Claibourn)       Tuesday, 1/29    10:00 - 12:00   Brown 133
-  * Intro to QGIS (Erich Purpur)                              Monday, 2/4 10:00 - 12:00  Brown 133
-  * Intro to Data Visualization with Tableau (Nancy Kechner)  Wednesday, 2/6  10:00 - 12:00 Brown 133
+  * Using APIs in Python                                      Tuesday, 10/15  10:00 - 12:00 Brown 133
+  * Data Visualization in Python (matplotlib)                 Tuesday, 10/22    10:00 - 12:00   Brown 133
+  * Using LaTeX and Overleaf                                  Wednesday, 10/2 2:00 - 3:30  Brown 133
+  * Working with tidycensus in R                              Thursday, 10:17  10:00 - 12:00 Brown 133
   
 ## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
