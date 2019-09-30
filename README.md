@@ -6,8 +6,10 @@ uva library workshop on introduction to python
 
 * I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
     -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
-    I try to make it available for them.  I also help people with GIS (Geographic Information Systems)
-    projects and sometimes programming-related questions.
+    I try to make it available for them.  I do quite a bit of teaching both in one off workshops like
+    this, ongoing series (PhD+), and for-credit courses. I teach courses releated to python programming and
+    Geographic Information Systems (GIS) I also sometimes help people with GIS (Geographic Information Systems)
+    projects and programming-related questions. And do various side projects as they arise.
     
     * ep9k@virginia.edu 
     * Brown Science & Engineering Library office i046
@@ -17,7 +19,7 @@ uva library workshop on introduction to python
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Using APIs in Python                                      Tuesday, 10/15  10:00 - 12:00 Brown 133
+  * Using Python APIs                                         Tuesday, 10/15  10:00 - 12:00 Brown 133
   * Data Visualization in Python (matplotlib)                 Tuesday, 10/22    10:00 - 12:00   Brown 133
   * Using LaTeX and Overleaf                                  Wednesday, 10/2 2:00 - 3:30  Brown 133
   * Working with tidycensus in R                              Thursday, 10:17  10:00 - 12:00 Brown 133
