@@ -22,7 +22,7 @@
 
 
 
-##Numbers
+##Numbers (Ints and Floats)
 #number1 = 4
 #number2 = 3.14
 #number3 = 4 + 1
@@ -56,12 +56,12 @@
 #    print("This is running from inside function1")
 #function1()
 
-def adding_function(number):                               #passing in a variable as argument to the function
-    print("Old number =", number)
-    a = 2
-    new_number = number + a
-    print("New number =", new_number)
-adding_function(5)
+#def adding_function(number):                               #passing in a variable as argument to the function
+#    print("Old number =", number)
+#    a = 2
+#    new_number = number + a
+#    print("New number =", new_number)
+#adding_function(5)
 
 
 
