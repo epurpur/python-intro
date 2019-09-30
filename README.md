@@ -24,6 +24,8 @@ uva library workshop on introduction to python
   * Using LaTeX and Overleaf                                  Wednesday, 10/2 2:00 - 3:30  Brown 133
   * Working with tidycensus in R                              Thursday, 10:17  10:00 - 12:00 Brown 133
   
+* [StatLab](https://data.library.virginia.edu/statlab/)
+  
 ## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
