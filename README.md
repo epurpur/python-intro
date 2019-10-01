@@ -3,6 +3,7 @@ uva library workshop on introduction to python
 
 ## Who am I?
 * Erich Purpur
+* Research Librarian for Science & Engineering
 
 * I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
     -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
