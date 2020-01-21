@@ -20,6 +20,7 @@ uva library workshop on introduction to python
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
+
 ~R workshops
   * Intro to R                                                Tuesday, 1/21  10:00 - 12:00 Brown 133
   * Data Wrangling in R                                       Tuesday, 1/28  10:00 - 12:00 Brown 133
