@@ -30,8 +30,9 @@ uva library workshop on introduction to python
   * Python and APIs                                           Tuesday, 1/28  2:00 - 4:00 Brown 133
   * Data Visualization with MatPlotLib                        Tuesday, 2/4   2:00 - 4:00 Brown 133
   * Web Scraping in Python                                    Tuesday, 2/11  2:00 - 4:00 Brown 133
-  
-* We are partnering with Research Computing to offer all workshops in one series this semester!
+
+
+We are partnering with Research Computing to offer all workshops in one series this semester!
 [Research Computing](https://www.rc.virginia.edu/)
   
 * [StatLab](https://data.library.virginia.edu/statlab/)
