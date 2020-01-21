@@ -20,10 +20,19 @@ uva library workshop on introduction to python
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Using Python APIs                                         Tuesday, 10/15  10:00 - 12:00 Brown 133
-  * Data Visualization in Python (matplotlib)                 Tuesday, 10/22    10:00 - 12:00   Brown 133
-  * Using LaTeX and Overleaf                                  Wednesday, 10/2 2:00 - 3:30  Brown 133
-  * Working with tidycensus in R                              Thursday, 10:17  10:00 - 12:00 Brown 133
+~R workshops
+  * Intro to R                                                Tuesday, 1/21  10:00 - 12:00 Brown 133
+  * Data Wrangling in R                                       Tuesday, 1/28  10:00 - 12:00 Brown 133
+  * Data Visualization in R                                   Tuesday, 2/4   10:00 - 12:00 Brown 133
+  
+~Python Workshops
+  * Intro to Python                                           Tuesday, 1/21  2:00 - 4:00 Brown 133
+  * Python and APIs                                           Tuesday, 1/28  2:00 - 4:00 Brown 133
+  * Data Visualization with MatPlotLib                        Tuesday, 2/4   2:00 - 4:00 Brown 133
+  * Web Scraping in Python                                    Tuesday, 2/11  2:00 - 4:00 Brown 133
+  
+* We are partnering with Research Computing to offer all workshops in one series this semester!
+[Research Computing](https://www.rc.virginia.edu/)
   
 * [StatLab](https://data.library.virginia.edu/statlab/)
   
