@@ -1,5 +1,5 @@
 # python-intro
-uva library workshop on introduction to python
+uva library workshop on introduction to python. Last updated 03/01/2021
 
 ## Who am I?
 * Erich Purpur
@@ -20,23 +20,14 @@ uva library workshop on introduction to python
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-
-~R workshops
-  * Intro to R                                                Tuesday, 1/21  10:00 - 12:00 Brown 133
-  * Data Wrangling in R                                       Tuesday, 1/28  10:00 - 12:00 Brown 133
-  * Data Visualization in R                                   Tuesday, 2/4   10:00 - 12:00 Brown 133
-  
-~Python Workshops
-  * Intro to Python                                           Tuesday, 1/21  2:00 - 4:00 Brown 133
-  * Python and APIs                                           Tuesday, 1/28  2:00 - 4:00 Brown 133
-  * Data Visualization with MatPlotLib                        Tuesday, 2/4   2:00 - 4:00 Brown 133
-  * Web Scraping in Python                                    Tuesday, 2/11  2:00 - 4:00 Brown 133
-
-
-We are partnering with Research Computing to offer all workshops in one series this semester!
-[Research Computing](https://www.rc.virginia.edu/)
-  
 * [StatLab](https://data.library.virginia.edu/statlab/)
+
+## Other Upcoming Workshops
+
+* Data Analysis in Python with Matplotlib and Pandas  Monday 3/8, 12:00-2:00pm
+* Intro to Python                                     Monday 3/22, 2:00-4:00pm
+* Data Analysis in Python with Matplotlib and Pandas  Tuesday 3/30, 2:00-4:00pm
+
   
 ## Getting Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
