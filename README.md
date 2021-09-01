@@ -86,7 +86,6 @@ Python is a general purpose programming language used for a huge variety of purp
 
 
 # Let's Get to It (hopefully everyone is done installing)
-* open spyder [it looks like this](spyder.png)
 * We are using Anaconda/Spyder today as it seems to be widely used throughout UVA. Adapted for data scientists
 * Spyder is a Programming IDE (Integrated Development Environment)
   * text editor
@@ -212,7 +211,7 @@ single use.
         
 * Phd+ Course Materials
         * All resources available online for free!
-        * https://workshops.rc.virginia.edu/lesson/python_shortcourse/python_introduction
+        * https://learning.rc.virginia.edu/courses/python_introduction/
 
 * Other resources available at UVA
         * Research Data Services - StatLab Fellows
