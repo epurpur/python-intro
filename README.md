@@ -176,7 +176,7 @@ You can "save" things as variables. For those curious as to what's going on unde
 
 
 # Import
-* *This is the most important topic*
+*This is an important topic*
 * The import command let's you bring in code from another file and use it
 * one example: random number generation
   * import random
@@ -186,7 +186,7 @@ You can "save" things as variables. For those curious as to what's going on unde
     *conda - (https://conda.io/docs/)
 
 
-#Mutablility
+# Mutablility
 * Some data types can be changed, others can't
 * Many reasons for this, a big one is performance
     * Mutable data types (such as lists) are costly to CPU processingn power
@@ -222,7 +222,7 @@ single use.
 
 # Self Help via the Internet
   * Google 
-        * Ex: "How to make dictionary python"
+        *  Ex: "How to make dictionary python"
         * Ex: "python decorators"
         
   * Stack Overflow (https://stackoverflow.com/)
