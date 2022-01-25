@@ -1,5 +1,5 @@
 # python-intro
-uva library workshop on introduction to python. Last updated 03/01/2021
+uva library workshop on introduction to python. Last updated 01/25/2022
 
 ## Who am I?
 * Erich Purpur
@@ -24,10 +24,10 @@ uva library workshop on introduction to python. Last updated 03/01/2021
 
 ## Other Upcoming Workshops
 
-* Intro to Python                                     Wednesday 9/8,  10:00 - 11:30am Brown 133
-* Data Analysis in Python with Matplotlib and Pandas  Wednesday 9/15, 10:00 - 11:30am Brown 133
-* Python and APIs                                     Wednesday 9/22, 10:00 - 11:30am Brown 133
-* Python Web Scraping                                 Wednesday 9/29, 10:00 - 11:30am Brown 133
+* Intro to Python                                     Wednesday 1/26,  10:00 - 11:30am
+* Data Analysis in Python with Matplotlib and Pandas  Wednesday 2/2,   10:00 - 11:30am Brown 133
+* No Python workshop this week!                       Wednesday 2/9
+* Python and APIs                                     Wednesday 2/16, 10:00 - 11:30am Brown 133
 
   
 ## Getting Python (this will take some time)
