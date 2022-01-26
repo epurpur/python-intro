@@ -24,10 +24,10 @@ uva library workshop on introduction to python. Last updated 01/25/2022
 
 ## Other Upcoming Workshops
 
-* Intro to Python                                     Wednesday 1/26,  10:00 - 11:30am
-* Data Analysis in Python with Matplotlib and Pandas  Wednesday 2/2,   10:00 - 11:30am Brown 133
+* Intro to Python                                     Wednesday 1/26,  11:00 - 12:30am
+* Data Analysis in Python with Matplotlib and Pandas  Wednesday 2/2,   11:00 - 12:30am Brown 133
 * No Python workshop this week!                       Wednesday 2/9
-* Python and APIs                                     Wednesday 2/16, 10:00 - 11:30am Brown 133
+* Python and APIs                                     Wednesday 2/16, 11:00 - 12:30am Brown 133
 
   
 ## Getting Python (this will take some time)
