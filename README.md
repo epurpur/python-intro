@@ -24,13 +24,13 @@ uva library workshop on introduction to python. Last updated 08/29/2022
 
 ## Other Upcoming Workshops
 
-* Intro to Python                                     Wednesday 1/26,  11:00 - 12:30
-* Data Analysis in Python with Matplotlib and Pandas  Wednesday 2/2,   11:00 - 12:30
-* No Python workshop this week!                       Wednesday 2/9
-* Python and APIs                                     Wednesday 2/16,  11:00 - 12:30
-* Python Web Scraping                                 Wednesday 2/23,  11:00 - 12:30
-* Version Control with Git/Github                     Tuesday   3/1,   10:00 - 11:30
-* Introduction to Regular Expressions                 Wednesday 3/2,   11:00 - 12:30
+* Intro to Python                                     Tuesday 9/6,     10:00 - 11:30
+* Data Analysis in Python with Matplotlib and Pandas  Tuesday 9/13,    10:00 - 11:30
+* Intro to Regular Expressions                        Tuesday 9/13,    1:00 - 2:30
+* Python and APIs                                     Tuesday 9/20,    10:00 - 11:30
+* Geospatial Data + Mapping in Python                 Tuesday 9/27,    10:00 - 11:30
+* Python Web Scraping                                 Tuesday 10/4,    10:00 - 11:30
+* File Input/Output in Python                         Tuesday 10/11,   10:00 - 11:30
 
   
 ## Getting Python (this will take some time)
