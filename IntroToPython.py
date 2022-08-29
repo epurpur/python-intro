@@ -18,11 +18,12 @@ print("hello world")
 print(variable1)
 
 
+#Comments - lines of code that are skipped by the interpreter
+# this line of code is ignored!
 
 
 
-
-##Numbers (Ints and Floats)
+#Numbers (Ints and Floats)
 number1 = 4
 number2 = 3.14
 number3 = 4 + 1
@@ -39,6 +40,10 @@ number5 = variable1 + variable2
 print('hello world)
 
 
+      
+      
+      
+      
 
 #Lists, loops, booleans, and indexing
 
@@ -88,6 +93,10 @@ else:
     print("x is somewhere in the middle")
 
 
+      
+      
+      
+      
 #Functions. Functions are used to write re-usable code. And to use other people's code
 #built-ins like print(), type(). These are a part of the python standard library
 
@@ -125,7 +134,7 @@ for values in athletes.values():
     print(values)
     
 print(athletes['Michael Jordan'])
-print(athletes[2])                             #dicts do not support indexing!
+print(athletes[2])                             #dictionaries are not ordered and cannot use indexing on them!
 
 athletes['Peyton Manning'] = 'Football'
 print(athletes)
@@ -139,8 +148,6 @@ MLB_Teams = {'Boston Red Sox': ['American League', 'Massachusetts', 'Fenway Park
 
 
 
-
-
 #Import (from other libraries, files, etc)
 #This lets you bring in code from other places and is hugely powerful
 import random
@@ -148,12 +155,13 @@ print(random.randint(0,20))
     
     
 
+      
 
 
 #Mutable and Immutable data types
 Some data types can be changed, others cant
 
-tuple1 = (0, 1, 2, 3)              #use tuples for performance. When things probably aren't going to be changed.
+tuple1 = (0, 1, 2, 3)              #use tuples for faster performance. This is useful in the situation that your data is big and will not change
 tuple1[0] = 5
 print(tuple1)
 
