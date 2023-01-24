@@ -1,5 +1,5 @@
 ```
--Last updated 23-january-2023
+-Last updated 23-January-2023
 ```
 
 ## Who am I?
@@ -7,6 +7,7 @@
 * Research Librarian for Science & Engineering
 
 * I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
+
     -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
     I try to make it available for them.  I do quite a bit of teaching both in one off workshops like
     this, ongoing series (PhD+), and for-credit courses. I teach courses releated to python programming and
@@ -16,7 +17,7 @@
     * ep9k@virginia.edu 
     * Brown Science & Engineering Library office i046
     
-* I like to be interrupted with questions! Please jump right in.
+* Feel free to interrupt with questions!
 
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
@@ -25,16 +26,19 @@
 
 ## Other Upcoming Workshops
 
-* Intro to Python                                     Tuesday 9/6,     10:00 - 11:30
-* Data Analysis in Python with Matplotlib and Pandas  Tuesday 9/13,    10:00 - 11:30
-* Intro to Regular Expressions                        Tuesday 9/13,    1:00 - 2:30
-* Python and APIs                                     Tuesday 9/20,    10:00 - 11:30
-* Geospatial Data + Mapping in Python                 Tuesday 9/27,    10:00 - 11:30
-* Python Web Scraping                                 Tuesday 10/4,    10:00 - 11:30
-* File Input/Output in Python                         Tuesday 10/11,   10:00 - 11:30
+| Workshop | Date | Time |
+| ---- | ---- | ---- |
+| Intro to Version Control w/ Git + Github                        |       Wednesday 1/25   |  10:00 - 11:30
+| Intro to Python                                                 |       Wednesday 2/1    |  12:00 - 1:30
+| Intro to Regular Expressions                                    |       Wednesday 2/8    |  10:00 - 11:30
+| Data Analysis in Python with Matplotlib and Pandas              |       Wednesday 2/8    |  10:00 - 11:30
+| Python Natural Language Processing / Sentiment Analysis         |       Wednesday 2/15   |  12:00 - 1:30
+| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
+| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
+| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
 
   
-## Getting Python (this will take some time)
+## Getting Anaconda + Python (this will take some time)
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
 
@@ -74,6 +78,7 @@ Python is a general purpose programming language used for a huge variety of purp
 # Difference between R and Python?  (Simplified)
 * They are both open source programming languages
 * Python is general purpose while R is focused on statistics and data analysis
+* However, R has grown hugely and has become much more wide ranging
 * You can also do stats with Python. Many packages available
     * NumPy
     * SciPy
@@ -84,7 +89,7 @@ Python is a general purpose programming language used for a huge variety of purp
 * Designed by [Guido van Rossum](https://www.google.com/search?q=google+image+search+guido+van+rossum&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE_eGK6KHdAhXrRd8KHUzBDHsQ_AUICigB&biw=1440&bih=697)
 * version 1.0 1994
 * version 2.0 2000
-* version 3.0 2008 (not widely adopted until a few years ago)
+* version 3.0 2008 (we are currently in python version 3.11)
 * [logo](https://www.google.com/search?q=python+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi9xN-J8aHdAhVBMt8KHT-WDEEQ_AUICigB&biw=1440&bih=697)
 * [anaconda logo](https://www.google.com/search?q=anaconda+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwin88Gf8aHdAhUhiOAKHeGLBHYQ_AUICigB&biw=1440&bih=697)
 
@@ -206,12 +211,8 @@ single use.
 
 # Learning Resources
 * Pick up a book, there are many available through the UVA library website 
-        * Learn Python the Hard Way (Available for free through UVA libraries)
+        * Learn Python 3 the Hard Way (Available for free through UVA libraries)
         * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
-        
-* CS 1110/1111 @ UVA
-        * All resources available online for free!
-        * https://cs1110.cs.virginia.edu/
         
 * Phd+ Course Materials
         * All resources available online for free!
@@ -226,7 +227,7 @@ single use.
 
 # Self Help via the Internet
   * Google 
-        *  Ex: "How to make dictionary python"
+        * Ex: "How to make dictionary python"
         * Ex: "python decorators"
         
   * Stack Overflow (https://stackoverflow.com/)
@@ -246,9 +247,6 @@ single use.
         * Visualize what your code is doing step-by-step
         * Has limitations once you start importing libraries
         
-  * TalkPython Training (https://training.talkpython.fm/)
-        * Not free
-        * Really awesome courses that help you get "real world" project experience
   
   
 
