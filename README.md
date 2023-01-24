@@ -1,5 +1,6 @@
-# python-intro
-uva library workshop on introduction to python. Last updated 08/29/2022
+```
+-Last updated 23-january-2023
+```
 
 ## Who am I?
 * Erich Purpur
