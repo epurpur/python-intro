@@ -1,5 +1,5 @@
 ```
--Last updated 23-January-2023
+-Last updated 10-August-2023
 ```
 
 ## Who am I?
@@ -28,14 +28,14 @@
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Intro to Version Control w/ Git + Github                        |       Wednesday 1/25   |  10:00 - 11:30
-| Intro to Python                                                 |       Wednesday 2/1    |  12:00 - 1:30
-| Intro to Regular Expressions                                    |       Wednesday 2/8    |  10:00 - 11:30
-| Data Analysis in Python with Matplotlib and Pandas              |       Wednesday 2/8    |  12:00 - 11:30
-| Python Natural Language Processing / Sentiment Analysis         |       Wednesday 2/15   |  12:00 - 1:30
-| Geospatial Data + Mapping in Python                             |       Wednesday 2/22   |  10:00 - 11:30
-| Python and APIs                                                 |       Wednesday 3/1    |  12:00 - 1:30
-| Python Web Scraping                                             |       Wednesday 3/15   |  12:00 - 1:30
+| Intro to Python pt 1                                                |       Tuesday 8/29   |  12:00 - 1:30pm
+| Intro to Python pt 2                                                |       Tuesday 9/5    |  12:00 - 1:30pm
+| Intro to Version Control w/ Git + Github                            |       Wednesday 9/6  |  1:00 - 2:30pm
+| Python Data Analysis + Visualization                                |       Tuesdady 9/12  |  12:00 - 1:30pm
+| Intro to Regular Expressions                                        |       Wednesday 9/13 |  1:00 - 2:30pm
+| Python and APIs                                                     |       Tuesday 9/19   |  12:00 - 1:30pm
+| Geospatial Data + Mapping in Python                                 |       Tuesday 9/26   |  12:00 - 1:30pm
+| Python Web Dashboards w/ Streamlit                                  |       Tuesday 10/10  |  12:00 - 1:30pm
 
   
 ## Getting Anaconda + Python (this will take some time)
@@ -226,6 +226,9 @@ single use.
             * https://www.rc.virginia.edu/
 
 # Self Help via the Internet
+  * ChatGPT
+        * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool <b>If you use it the right way!</>
+
   * Google 
         * Ex: "How to make dictionary python"
         * Ex: "python decorators"
