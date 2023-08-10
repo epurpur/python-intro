@@ -52,7 +52,7 @@
 # Goals for Today
 1. Get python running
 2. Learn some fundamentals
-3. Learn how to help yourself (Most Important!)
+3. Learn how to help yourself (including ChatGPT)
 
 ## Outline
 1. Strings
@@ -227,7 +227,9 @@ single use.
 
 # Self Help via the Internet
   * ChatGPT
-        * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool <b>If you use it the right way!</>
+        * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows.
+        * [How to Effectively Learn to Program w/ ChatGPT] (https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
+        * [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
 
   * Google 
         * Ex: "How to make dictionary python"
@@ -240,11 +242,13 @@ single use.
             * Odds are very high someone has already asked your question, especially as a novice
      
   * Youtube
-        - Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-            - If you have a question about a python programming concept, Corey Schafer has covered it
+        * Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+            * If you have a question about a python programming concept, Corey Schafer has covered it
+        * [Corey's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
      
   * Practice Python (http://www.practicepython.org/)
         * Coding challenges for programmers of all levels
+        
         
   * Python Tutor (http://pythontutor.com/)
         * Visualize what your code is doing step-by-step
