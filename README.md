@@ -211,58 +211,50 @@ single use.
 
 # Learning Resources
 * Pick up a book, there are many available through the UVA library website 
-        * Learn Python 3 the Hard Way (Available for free through UVA libraries)
-        * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
+  * Learn Python 3 the Hard Way (Available for free through UVA libraries)
+  * [Link here](https://search.lib.virginia.edu/catalog/u7434195)
         
 * Phd+ Course Materials
-        * All resources available online for free!
-        * https://learning.rc.virginia.edu/courses/python_introduction/
+  * All resources available online for free!
+  * https://learning.rc.virginia.edu/courses/python_introduction/
 
 * Other resources available at UVA
-        * Research Data Services - StatLab Fellows
-        * https://data.library.virginia.edu/statlab/
-        * statlab@virginia.edu
-        * Research Computing - Provides high performance computing expertise
-            * https://www.rc.virginia.edu/
+  * Research Data Services - StatLab Fellows
+  * https://data.library.virginia.edu/statlab/
+  * statlab@virginia.edu
+  * Research Computing - Provides high performance computing expertise
+    * https://www.rc.virginia.edu/
 
 # Self Help via the Internet
   * ChatGPT
-        * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows.
-        * [How to Effectively Learn to Program w/ ChatGPT] (https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
-        * [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
+    * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows.
+    * [How to Effectively Learn to Program w/ ChatGPT] (https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
+    * [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
 
   * Google 
-        * Ex: "How to make dictionary python"
-        * Ex: "python decorators"
+    * Ex: "How to make dictionary python"
+    * Ex: "python decorators"
         
   * Stack Overflow (https://stackoverflow.com/)
-        * A question/answer site for programming questions (actually, not just programming any more)
-        * Not only python
-        * DO NOT just ask questions, do your research first!
-            * Odds are very high someone has already asked your question, especially as a novice
+    * A question/answer site for programming questions (actually, not just programming any more)
+    * Not only python
+    * DO NOT just ask questions, do your research first!
+      * Odds are very high someone has already asked your question, especially as a novice
      
   * Youtube
-        * Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
-            * If you have a question about a python programming concept, Corey Schafer has covered it
-        * [Corey's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
+    * (Corey Schafer)[https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g]
+      * If you have a question about a python programming concept, Corey Schafer has covered it
+      * (How to Use ChatGPT by Corey Schafer)[https://www.youtube.com/watch?v=jRAAaDll34Q]
      
-  * Practice Python (http://www.practicepython.org/)
-        * Coding challenges for programmers of all levels
+  * (Practice Python)[http://www.practicepython.org/]
+    * Coding challenges for programmers of all levels
         
         
-  * Python Tutor (http://pythontutor.com/)
-        * Visualize what your code is doing step-by-step
-        * Has limitations once you start importing libraries
+  * (Python Tutor)[http://pythontutor.com/]
+    * Visualize what your code is doing step-by-step
+    * Has limitations once you start importing libraries
         
-  * Item 1
-  * Subitem 1.1
-  * Subitem 1.2
-* Item 2
-  * Subitem 2.1
-    * Sub-subitem 2.1.1
-    * Sub-subitem 2.1.2
-  * Subitem 2.2
-* Item 3
+
   
 
 
