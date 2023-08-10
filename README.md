@@ -228,14 +228,14 @@ single use.
 # Self Help via the Internet
   * ChatGPT
     * ChapGPT has quickly made huge changes to the programming landscape. It is a hugely powerful tool **If you use it the right way!**. I think it is a somewhat slippery slope of how to advise new programmers to use ChatGPT (or other AI tools) so I will refer to some best practices. My personal opinion is that you should use AI minimally when you are starting. When you have a better grasp of basic fundamentals, then you can include AI and greatly increase your speed. **Never accept ChatGPT code verbatim!** Always double check it before including it in your workflows.
-    * [How to Effectively Learn to Program w/ ChatGPT] (https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
+    * [How to Effectively Learn to Program w/ ChatGPT](https://towardsdatascience.com/how-to-effectively-start-coding-in-the-era-of-chatgpt-cfc5151e1c42)
     * [Corey Schafer's "How to use ChatGPT"](https://www.youtube.com/watch?v=jRAAaDll34Q)
 
   * Google 
     * Ex: "How to make dictionary python"
     * Ex: "python decorators"
         
-  * Stack Overflow (https://stackoverflow.com/)
+  * [Stack Overflow](https://stackoverflow.com/)
     * A question/answer site for programming questions (actually, not just programming any more)
     * Not only python
     * DO NOT just ask questions, do your research first!
