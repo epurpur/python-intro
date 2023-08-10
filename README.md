@@ -242,15 +242,15 @@ single use.
       * Odds are very high someone has already asked your question, especially as a novice
      
   * Youtube
-    * (Corey Schafer)[https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g]
+    * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
       * If you have a question about a python programming concept, Corey Schafer has covered it
       * (How to Use ChatGPT by Corey Schafer)[https://www.youtube.com/watch?v=jRAAaDll34Q]
      
-  * (Practice Python)[http://www.practicepython.org/]
+  * [Practice Python](http://www.practicepython.org/)
     * Coding challenges for programmers of all levels
         
         
-  * (Python Tutor)[http://pythontutor.com/]
+  * [Python Tutor](http://pythontutor.com/)
     * Visualize what your code is doing step-by-step
     * Has limitations once you start importing libraries
         
