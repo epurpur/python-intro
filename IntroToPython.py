@@ -159,7 +159,7 @@ print(random.randint(0,20))
 
 
 #Mutable and Immutable data types
-Some data types can be changed, others cant
+#Some data types can be changed, others cant
 
 tuple1 = (0, 1, 2, 3)              #use tuples for faster performance. This is useful in the situation that your data is big and will not change
 tuple1[0] = 5
