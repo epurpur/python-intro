@@ -52,7 +52,7 @@
 # Goals for Today
 1. Get python running
 2. Learn some fundamentals
-3. Learn how to help yourself (including ChatGPT)
+3. Learn how to help yourself (including ChatGPT / AI)
 
 ## Outline
 1. Strings
