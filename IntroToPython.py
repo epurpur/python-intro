@@ -134,7 +134,7 @@ for values in athletes.values():
     print(values)
     
 print(athletes['Michael Jordan'])
-print(athletes[2])                             #dictionaries are not ordered and cannot use indexing on them!
+#print(athletes[2])                             #dictionaries are not ordered and cannot use indexing on them!
 
 athletes['Peyton Manning'] = 'Football'
 print(athletes)
