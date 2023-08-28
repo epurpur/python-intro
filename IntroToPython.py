@@ -139,6 +139,8 @@ print(athletes['Michael Jordan'])
 athletes['Peyton Manning'] = 'Football'
 print(athletes)
 
+
+# JSON format. JavaScript Object Notation
 MLB_Teams = {'Boston Red Sox': ['American League', 'Massachusetts', 'Fenway Park'],
             'New York Yankees': ['American League', 'New York', 'Yankee Stadium'],
             'Chicago Cubs': ['National League', 'Chicago', 'Wrigley Field']}
