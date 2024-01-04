@@ -2,6 +2,9 @@
 -Last updated January-3-2024
 ```
 
+### Link to YouTube recording of this workshop
+- [Click Here](https://youtu.be/BHEb2mpy7o8)
+
 ## Who am I?
 * Erich Purpur
 * Research Librarian for Science & Engineering
