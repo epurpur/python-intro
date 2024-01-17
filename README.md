@@ -3,7 +3,7 @@
 ```
 
 ### Link to recording of this workshop
-- [Click Here](https://uva.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84febc6c-aecf-4261-be1d-b0f20137bd18)
+- [Click Here](https://youtu.be/BHEb2mpy7o8)
 
 ## Who am I?
 * Erich Purpur
