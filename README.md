@@ -1,5 +1,5 @@
 ```
--Last updated January-3-2024
+-Last updated 01/17/2024
 ```
 
 ### Link to recording of this workshop
