@@ -1,5 +1,5 @@
 ```
--Last updated 01/17/2024
+-Last updated 08/27/2024
 ```
 
 ### Link to recording of this workshop
@@ -32,12 +32,12 @@
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Intro to Python pt 1                                                |       Tuesday 1/30   |  12:00 - 1:30pm
-| Intro to Python pt 2                                                |       Tuesday 2/6    |  12:00 - 1:30pm
-| Python Data Analysis + Visualization                                |       Tuesday 2/13   |  12:00 - 1:30pm
-| Intro to Version Control w/ Git + Github                            |       Wednesday 2/14 |  10:00 - 11:30pm
-| Python and ChatGPT                                                  |       Tuesday 2/20   |  12:00 - 1:30pm
-| Geospatial Data + Mapping in Python                                 |       Tuesday 3/12   |  12:00 - 1:30pm
+| Intro to Python pt 1                                                |       Wednesday 9/4   |  10:00 - 11:30am
+| Intro to Python pt 2                                                |       Wednesday 9/11  |  10:00 - 11:30am
+| Intro to Version Control w/ Git + Github                            |       Wednesday 9/11  |  1:00 - 2:30pm
+| Python Data Analysis + Visualization                                |       Wednesday 9/18  |  10:00 - 11:30am
+| Local Large Language Models                                         |       Wednesday 9/25  |  10:00 - 11:30am
+| Python Web Scraping                                                 |       Wednesday 10/2  |  10:00 - 11:30am
 
   
 ## Getting Anaconda + Python (this will take some time)
