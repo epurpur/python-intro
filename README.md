@@ -9,17 +9,12 @@
 ## Who am I?
 * Erich Purpur
 * Research Librarian for Science & Engineering
+* [Research Data Services](https://data.library.virginia.edu/rds-staff/)
 
-* I'm a librarian here at UVA [Research Data Services](https://data.library.virginia.edu/rds-staff/)
-
-    -I'm a liaison to various engineering departments. Basically, if they need stuff from the library
-    I try to make it available for them.  I do quite a bit of teaching both in one off workshops like
-    this, ongoing series (PhD+), and for-credit courses. I teach courses releated to python programming and
-    Geographic Information Systems (GIS) I also sometimes help people with GIS (Geographic Information Systems)
-    projects and programming-related questions. And do various side projects as they arise.
+    -I'm a Science & Engineering Librarian and a liaison to various Science & Engineering departments here at UVA. Basically, it means that if there is a way for the library to support those departments, I am responsible for making that happen. I also do various other things like teach workshops on technical topics, like the one you are taking today. I also am involved in internal library projects and committees. 
     
     * ep9k@virginia.edu 
-    * Brown Science & Engineering Library office i046
+    * Brown Science & Engineering Library office i054
     
 * Feel free to interrupt with questions!
 
@@ -146,7 +141,7 @@ You can "save" things as variables. For those curious as to what's going on unde
   
 ## Indexing
 * for objects with an order you can access individual elements
-* [indexing](indexing.png)
+* [indexing](https://www.freecodecamp.org/news/slicing-and-indexing-in-python/)
 * you can also pull out slices
   * syntax [X:Y]
     * starting at X
@@ -193,8 +188,8 @@ You can "save" things as variables. For those curious as to what's going on unde
   * import random
     * random.randint(0,10)
 * Sometimes packages needed to be installed (3rd party packages)
-    *pip - (https://pip.pypa.io/en/stable/installing/)
-    *conda - (https://conda.io/docs/)
+    * pip - ([https://pip.pypa.io/en/stable/installing/](https://packaging.python.org/en/latest/tutorials/installing-packages/))
+    * conda - (https://conda.io/docs/)
 
 
 # Mutablility
@@ -218,14 +213,14 @@ single use.
         
 * Phd+ Course Materials
   * All resources available online for free!
-  * https://learning.rc.virginia.edu/courses/python_introduction/
+  * [https://learning.rc.virginia.edu/courses/python_introduction/](https://learning.rc.virginia.edu/courses/python-introduction/)
 
 * Other resources available at UVA
   * Research Data Services - StatLab Fellows
   * https://data.library.virginia.edu/statlab/
   * statlab@virginia.edu
   * Research Computing - Provides high performance computing expertise
-    * https://www.rc.virginia.edu/
+    * [https://www.rc.virginia.edu/](https://www.rc.virginia.edu/)
 
 # Self Help via the Internet
   * ChatGPT
