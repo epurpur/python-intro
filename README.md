@@ -1,5 +1,5 @@
 ```
--Last updated 08/27/2024
+-Last updated 01/21/2025
 ```
 
 ### Link to recording of this workshop
@@ -23,16 +23,16 @@
 * [Workshop Series](https://data.library.virginia.edu/training/)
 * [StatLab](https://data.library.virginia.edu/statlab/)
 
-## Other Upcoming Workshops
+
+## Upcoming Workshops
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Intro to Python pt 1                                                |       Wednesday 9/4   |  10:00 - 11:30am
-| Intro to Python pt 2                                                |       Wednesday 9/11  |  10:00 - 11:30am
-| Intro to Version Control w/ Git + Github                            |       Wednesday 9/11  |  1:00 - 2:30pm
-| Python Data Analysis + Visualization                                |       Wednesday 9/18  |  10:00 - 11:30am
-| Local Large Language Models                                         |       Wednesday 9/25  |  10:00 - 11:30am
-| Python Web Scraping                                                 |       Wednesday 10/2  |  10:00 - 11:30am
+| Intro to Python pt 1                                                |       Wednesday 1/22   |  10:00 - 11:30am
+| Intro to Python pt 2                                                |       Wednesday 1/29   |  10:00 - 11:30am
+| Python Programming w/ GenAI pt 1                                    |       Wednesday 2/5    |  10:00 - 11:30am
+| Python Programming w/ GenAI pt 2                                    |       Wednesday 2/12   |  10:00 - 11:30am
+| Using Large Language Models Locally                                 |       Wednesday 2/26   |  10:00 - 11:30am
 
   
 ## Getting Anaconda + Python (this will take some time)
